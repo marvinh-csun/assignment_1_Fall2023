@@ -3,6 +3,9 @@
 ## Part 1
 1. Create A Rest API Using any framework for backend that will create and display tasks. Each Task Should Be able to have comments under the task.
 
+##### ER Diagram
+![alt text](https://github.com/marvinh-csun/assignment_1_Fall2023/blob/main/ERDiagram.png)
+
 ## Part 2
 1. Create Frontend application to interact with the tasks.
 2. Tasks should be reorderable by drag and drop interface I have provided algorithm that will work for reordering below
